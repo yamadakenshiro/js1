@@ -1,0 +1,30 @@
+body {text-align: center;}
+
+.timerHour {font-size: 40px;}
+
+.timerMin {font-size: 40px;}
+
+.timerSec {font-size: 40px;}
+
+.timerMs {font-size: 40px;}
+
+
+.buttons {height: 60px;}
+
+.buttonA {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.buttonB {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.buttonC {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
